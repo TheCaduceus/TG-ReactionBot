@@ -41,7 +41,7 @@ async def send_emojis(_, msg: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text='Reference', url='https://github.com/TheCaduceus/TG-ReactionBot/blob/main/bot/config.py#L7')
+                    InlineKeyboardButton(text='Reference', url='https://github.com/TheCaduceus/TG-ReactionBot/blob/main/bot/config.py#L8')
                 ]
             ]
         )
