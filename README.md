@@ -68,11 +68,12 @@ pip install -r requirements.txt
 <a name="variables"></a>
 
 ## 📝 Variables
-**The variables provided below should either be completed within the [config.py](https://github.com/TheCaduceus/FileStreamBot/blob/main/bot/config.py) file or configured as environment variables.**
+**The variables provided below should either be completed within the [config.py](https://github.com/TheCaduceus/TG-ReactionBot/blob/main/bot/config.py) file or configured as environment variables.**
 * `API_ID`|`TG_API_ID`: API ID of your Telegram account, can be obtained from [My Telegram](https://my.telegram.org). `int`
 * `API_HASH`|`TG_API_HASH`: API hash of your Telegram account, can be obtained from [My Telegram](https://my.telegram.org). `str`
 * `BOT_TOKEN`|`TG_BOT_TOKEN`: Telegram API token of your bot, can be obtained from [@BotFather](https://t.me/BotFather). `str`
 * `BOT_USERNAME`|`TG_BOT_USERNAME`: Username of your Telegram bot without '@'.
+* `EMOJIS`: List of emojis that you'd like bot to use.
 
 <a name="deployment"></a>
 
